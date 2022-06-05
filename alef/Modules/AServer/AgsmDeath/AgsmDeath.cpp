@@ -667,7 +667,21 @@ BOOL AgsmDeath::ProcessCombatResult(AgpdCharacter *pCharacter)
 		if (pcsHistory->m_astEntry[i].m_lPartyID != AP_INVALID_PARTYID)
 			continue;
 
-		// exp 계산한다.
+		AgsdCharacter* pcsAgsdCharacter = (AgsdCharacter*)m_pagsmCharacter->GetADCharacter(pCharacter);
+
+		/*char strCharBuff[256] = { 0, };
+		sprintf_s(
+			strCharBuff, 
+			sizeof(strCharBuff), 
+			"[GivingExp] %s: Exp: %s\n", 
+			pCharacter->m_szID, 
+			pcsAgsdCharacter->m_bDisableExp ? 'Y' : 'N'
+		);
+		AuLogFile_s("log/TomLog", strCharBuff);*/
+
+		if (pcsAgsdCharacter->m_bDisableExp) {
+			return FALSE;
+		}
 		GetBonusExp(lTotalExp, pCharacter, &pcsHistory->m_astEntry[i]);
 	}
 
@@ -1118,6 +1132,23 @@ BOOL AgsmDeath::AddBonusExpToChar(AgpdCharacter *pcsCharacter, AgpdCharacter *pc
 
 	//JK_특성화서버
 	INT32	lLimitLevel = m_pagpmConfig->GetLimitLevel();
+
+	AgsdCharacter* pcsAgsdCharacter = (AgsdCharacter*)m_pagsmCharacter->GetADCharacter(pcsCharacter);
+
+	char strCharBuff[256] = { 0, };
+	sprintf_s(
+		strCharBuff,
+		sizeof(strCharBuff),
+		"[GivingExp1] To: %s, Exp: %s, AutoPickup: %s\n",
+		pcsCharacter->m_szID,
+		pcsAgsdCharacter->m_bDisableExp ? "Y" : "N",
+		pcsAgsdCharacter->m_bIsAutoPickupItem ? "Y" : "N"
+	);
+	AuLogFile_s("log/TomLog", strCharBuff);
+
+	if (pcsAgsdCharacter->m_bDisableExp) {
+		return FALSE;
+	}
 
 	if (llBonusExp > 0)
 	{

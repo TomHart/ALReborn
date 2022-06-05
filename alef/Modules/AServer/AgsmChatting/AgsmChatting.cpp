@@ -581,6 +581,30 @@ BOOL AgsmChatting::ParseCommand(AgpdChatData * pstChatData)
 
 			return TRUE;
 		}
+
+		else if (strncmp(pstChatData->szMessage + i, "/exptoggle", max(strlen("/exptoggle"), j - i)) == 0)
+		{
+			AgpdCharacter* pcsAgpdCharacter = m_pagpmCharacter->GetCharacter(pstChatData->pcsSenderBase->m_lID);
+			AgsdCharacter* pcsAgsdCharacter = m_pagsmCharacter->GetADCharacter(pcsAgpdCharacter);
+
+			bool was = pcsAgsdCharacter->m_bDisableExp;
+			pcsAgsdCharacter->m_bDisableExp = !was;
+			bool is = pcsAgsdCharacter->m_bDisableExp;
+
+			char strCharBuff[256] = { 0, };
+			sprintf_s(
+				strCharBuff,
+				sizeof(strCharBuff),
+				"[ExpToggle] %s(%s): Was:%s, Is: %s\n",
+				pcsAgpdCharacter->m_szID,
+				pcsAgsdCharacter->m_szAccountID,
+				was ? "Y" : "N",
+				is ? "Y" : "N"
+			);
+			AuLogFile_s("log/TomLog", strCharBuff);
+
+			return TRUE;
+		}
 		else
 		{
 			// 이도 저도 아니면 Admin 명령어인지 체크해본다. 2003.11.18. steeple

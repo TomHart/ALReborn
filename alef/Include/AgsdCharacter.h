@@ -345,6 +345,7 @@ public:
 	INT32					m_lOriginalRegionIndex;
 
 	BOOL					m_bIsAutoPickupItem;
+	BOOL					m_bDisableExp;
 	
 	stOptionSkillData		m_stOptionSkillData;	// 2006.12.12. steeple. 아이템 옵션에 의해서 적용되는 스킬데이터.
 	BOOL					m_bLevelUpForced;		// Exp 상승이 아닌 강제 세팅으로 레벨이 변경된 경우

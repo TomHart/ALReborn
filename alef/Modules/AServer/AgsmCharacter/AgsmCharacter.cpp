@@ -1253,6 +1253,7 @@ BOOL AgsmCharacter::ConAgsdCharacter(PVOID pData, PVOID pClass, PVOID pCustData)
 	pAgsdCharacter->m_ulConnectedTimeStamp = 0;
 
 	pAgsdCharacter->m_bIsAutoPickupItem	= FALSE;
+	pAgsdCharacter->m_bDisableExp = FALSE;
 	
 	pAgsdCharacter->m_stOptionSkillData.init();
 	pAgsdCharacter->m_bLevelUpForced = FALSE;
