@@ -18,7 +18,7 @@
 #include "AgsmCharacter.h"
 #include "AuRandomNumber.h"
 #include "AgsdRefinery.h"
-#include "hash_map"
+#include "unordered_map"
 
 //using namespace stdext;
 
@@ -30,11 +30,11 @@
 #define AGSMREFINERY_RESULT_INTERVAL			500
 
 typedef pair<INT32, AgsdRefineOptionGroup>					OptionGroupPair;
-typedef hash_map<INT32, AgsdRefineOptionGroup>::iterator	OptionGroupIter;
+typedef unordered_map<INT32, AgsdRefineOptionGroup>::iterator	OptionGroupIter;
 
 
 typedef pair<INT32, AgsdRefineSocket>					SocketPair;
-typedef hash_map<INT32, AgsdRefineSocket>::iterator		SocketIter;
+typedef unordered_map<INT32, AgsdRefineSocket>::iterator		SocketIter;
 
 
 
@@ -58,8 +58,8 @@ class AgsmRefinery : public AgsModule
 		MTRand				m_csRandom;
 
 		//	Map
-		hash_map<INT32, AgsdRefineOptionGroup>	m_MapOptionGroup;
-		hash_map<INT32, AgsdRefineSocket>		m_MapSocket;
+		unordered_map<INT32, AgsdRefineOptionGroup>	m_MapOptionGroup;
+		unordered_map<INT32, AgsdRefineSocket>		m_MapSocket;
 		
 
 	public:

@@ -2511,6 +2511,66 @@ BOOL AgsmAdmin::ParseCommand(AgpdChatData * pstChatData, BOOL bCheckAdmin)
 
 		return ProcessCommandOpenLotteryBox( pcsAgpdCharacter, pstChatData->szMessage + j, pstChatData->lMessageLength - (j) );
 	}
+	else if (strncmp(pstChatData->szMessage + i, "/moveup", j - i) == 0)
+	{
+		if (!pcsAgpdCharacter || !m_pagpmAdmin->IsAdminCharacter(pcsAgpdCharacter))
+		{
+			return FALSE;
+		}
+
+		if (pstChatData->pcsSenderBase &&
+			pstChatData->pcsSenderBase->m_eType == APBASE_TYPE_CHARACTER &&
+			((AgpdCharacter*)pstChatData->pcsSenderBase)->m_pcsCharacterTemplate)
+		{
+			m_pagpmCharacter->StopCharacter((AgpdCharacter*)pstChatData->pcsSenderBase, NULL);
+
+			INT32	lMoveSpeed = 0;
+			m_pagpmFactors->GetValue(&((AgpdCharacter*)pstChatData->pcsSenderBase)->m_pcsCharacterTemplate->m_csFactor, &lMoveSpeed, AGPD_FACTORS_TYPE_CHAR_STATUS, AGPD_FACTORS_CHARSTATUS_TYPE_MOVEMENT_FAST);
+			INT32	lMoveSpeedActual = 0;
+			m_pagpmFactors->GetValue(&((AgpdCharacter*)pstChatData->pcsSenderBase)->m_csFactor, &lMoveSpeedActual, AGPD_FACTORS_TYPE_CHAR_STATUS, AGPD_FACTORS_CHARSTATUS_TYPE_MOVEMENT_FAST);
+
+			char strCharBuff[256] = { 0, };
+			sprintf_s(strCharBuff, sizeof(strCharBuff), "[MoveUp]: Template: %d, Actual: %d\n", lMoveSpeed, lMoveSpeedActual);
+			AuLogFile_s(AGSMADMIN_COMMAND_LOG_FILE, strCharBuff);
+
+
+			m_pagpmFactors->SetValue(&((AgpdCharacter*)pstChatData->pcsSenderBase)->m_csFactor, lMoveSpeedActual * 2, AGPD_FACTORS_TYPE_CHAR_STATUS, AGPD_FACTORS_CHARSTATUS_TYPE_MOVEMENT_FAST);
+
+			m_pagsmCharacter->ReCalcCharacterResultFactors(((AgpdCharacter*)pstChatData->pcsSenderBase), TRUE);
+		}
+
+		return TRUE;
+	}
+	else if (strncmp(pstChatData->szMessage + i, "/movedown", j - i) == 0)
+	{
+		if (!pcsAgpdCharacter || !m_pagpmAdmin->IsAdminCharacter(pcsAgpdCharacter))
+		{
+			return FALSE;
+		}
+
+		if (pstChatData->pcsSenderBase &&
+			pstChatData->pcsSenderBase->m_eType == APBASE_TYPE_CHARACTER &&
+			((AgpdCharacter*)pstChatData->pcsSenderBase)->m_pcsCharacterTemplate)
+		{
+			m_pagpmCharacter->StopCharacter((AgpdCharacter*)pstChatData->pcsSenderBase, NULL);
+
+			INT32	lMoveSpeed = 0;
+			m_pagpmFactors->GetValue(&((AgpdCharacter*)pstChatData->pcsSenderBase)->m_pcsCharacterTemplate->m_csFactor, &lMoveSpeed, AGPD_FACTORS_TYPE_CHAR_STATUS, AGPD_FACTORS_CHARSTATUS_TYPE_MOVEMENT_FAST);
+			INT32	lMoveSpeedActual = 0;
+			m_pagpmFactors->GetValue(&((AgpdCharacter*)pstChatData->pcsSenderBase)->m_csFactor, &lMoveSpeedActual, AGPD_FACTORS_TYPE_CHAR_STATUS, AGPD_FACTORS_CHARSTATUS_TYPE_MOVEMENT_FAST);
+
+			char strCharBuff[256] = { 0, };
+			sprintf_s(strCharBuff, sizeof(strCharBuff), "[MoveDown]: Template: %d, Actual: %d\n", lMoveSpeed, lMoveSpeedActual);
+			AuLogFile_s(AGSMADMIN_COMMAND_LOG_FILE, strCharBuff);
+
+			m_pagpmFactors->SetValue(&((AgpdCharacter*)pstChatData->pcsSenderBase)->m_csFactor, lMoveSpeedActual / 2, AGPD_FACTORS_TYPE_CHAR_STATUS, AGPD_FACTORS_CHARSTATUS_TYPE_MOVEMENT_FAST);
+
+			m_pagsmCharacter->ReCalcCharacterResultFactors(((AgpdCharacter*)pstChatData->pcsSenderBase), TRUE);
+
+		}
+
+		return TRUE;
+	}
 
 	return FALSE;
 }

@@ -147,11 +147,11 @@ class AgsdPvPKilledChar
 	};
 
 
-typedef hash_map<string, AgsdPvPKilledChar>					KilledCharInfoMap;
+typedef unordered_map<string, AgsdPvPKilledChar>					KilledCharInfoMap;
 typedef pair<string, AgsdPvPKilledChar>						KilledCharInfoMapPair;
 typedef KilledCharInfoMap::iterator							KilledCharInfoMapIter;
 
-typedef hash_map<string, KilledCharInfoMap>					KilledCharMap;
+typedef unordered_map<string, KilledCharInfoMap>					KilledCharMap;
 typedef pair<string, KilledCharInfoMap>						KilledCharMapPair;
 typedef KilledCharMap::iterator								KilledCharMapIter;
 

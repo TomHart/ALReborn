@@ -1,0 +1,13 @@
+/alef/.vs/
+/alef/Lib/Debug
+/alef/Lib/Release
+/alef/Projects/AlefClient/Debug/
+/alef/Projects/MciLib/Debug/
+/alef/Projects/AgcModules/Debug/
+/alef/Projects/AgcModules/Release/
+/alef/Projects/AgpModules/Release/
+/alef/Projects/AgsModules/Release/
+/alef/Projects/ApModules/Release/
+/alef/Projects/AlefServer/Release/
+/alef/Projects/AsNetworkLib/Release/
+/alef/Bin/

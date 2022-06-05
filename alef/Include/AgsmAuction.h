@@ -24,7 +24,7 @@
 #include "AgsmAuctionRelay.h"
 #include "AgsmInterServerLink.h"
 #include "AuTimeStamp.h"
-#include "hash_map"
+#include "unordered_map"
 #include "AgpmConfig.h"
 #include "AgsmSystemMessage.h"
 
@@ -33,7 +33,7 @@
 
 
 typedef pair<INT32, INT32> SalesCountPair;
-typedef hash_map<INT32, INT32>::iterator SalesCountIter;
+typedef unordered_map<INT32, INT32>::iterator SalesCountIter;
 
 
 /************************************************/
@@ -61,7 +61,7 @@ class AgsmAuction : public AgsModule
 		AgsmSystemMessage	*m_pAgsmSystemMessage;
 
 		AuGenerateID			m_GenerateID;
-		hash_map<INT32, INT32>	m_SalesCount;
+		unordered_map<INT32, INT32>	m_SalesCount;
 		ApCriticalSection		m_SalesCountLock;
 		INT16					m_nSalesCountReceived;
 		BOOL					m_bReady;
