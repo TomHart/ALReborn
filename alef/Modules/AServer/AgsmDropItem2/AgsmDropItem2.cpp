@@ -350,6 +350,72 @@ BOOL AgsmDropItem2::CBDropItem(PVOID pData, PVOID pClass, PVOID pCustData)
 	// 2007.02.05. steeple
 	pThis->m_pcsAgsmItem->ProcessItemSkillPlus(pcsItem, pcsDropInfo->m_pcsDropCharacter);
 
+	INT32 lRank = 0;
+
+	AgpdItemTemplate* pcsAgpdItemTemplate = pcsItem->m_pcsItemTemplate;
+	pThis->m_pcsAgpmFactors->GetValue(&pcsAgpdItemTemplate->m_csFactor, &lRank, AGPD_FACTORS_TYPE_ITEM, AGPD_FACTORS_ITEM_TYPE_RANK);
+	INT32 lKind = ((AgpdItemTemplateEquip*)pcsAgpdItemTemplate)->m_nKind;
+	INT32 lPart = ((AgpdItemTemplateEquip*)pcsAgpdItemTemplate)->m_nPart;
+
+
+	bool isNormalOrHigherWeapon = lKind == 2 && lRank >= 1;
+	bool isRareOrHigherWeapon = lKind == 2 && lRank >= 2;
+	bool isUniqueOrHigherWeapon = lKind == 2 && lRank >= 3;
+	bool isEliteOrHigherWeapon = lKind == 2 && lRank >= 4;
+	bool isNormalOrHigherArmour = lKind == 1 && lRank >= 1;
+	bool isRareOrHigherArmour = lKind == 1 && lRank >= 2;
+	bool isUniqueOrHigherArmour = lKind == 1 && lRank >= 3;
+	bool isEliteOrHigherArmour = lKind == 1 && lRank >= 4;
+	bool isShield = lKind == 4;
+	/*
+	Rank:
+		For weapons/armour:
+			1: Normal
+			2: Rare
+			3: Unique & (CF + Realms)
+			4: Elite
+		For stones:
+			1-6 for the stones level
+	
+	Kind:
+		1: Armour
+		2: Weapon
+		4: Sheild
+		8: Ring
+		16: Necklace
+		32: Mount
+
+	Part:
+		9 & 10: Weapons
+		Armour:
+			2: Chest
+			3: Cap
+			4: Sleeves (looks like unfinished feature)
+			5: Arms
+			6: Legs
+			7: Boots
+		13: Necklace
+		11: Ring
+		14: Mount
+		15: Mount Weapon
+		Everything higher looks like invalid items
+
+	Class:
+		2: Bow
+	*/
+
+	BOOL shouldLoot = (
+		(
+			(lKind == 1 || lKind == 2) && // Armour + Wep
+			lRank >= 3 // Unique and up
+			) ||
+		lPart == 524288 // Ref Pot
+		);
+
+	if (!shouldLoot) {
+		return pThis->DropItemToField(pcsDropInfo->m_pcsDropCharacter, pcsDropInfo->m_pcsFirstLooter, pcsItem);
+	}
+
 	if (pcsItem->m_pcsItemTemplate->m_lID != 4608)
 	{
 		if (pThis->m_pcsAgsmItem->AddItemToPartyMember(pcsDropInfo->m_pcsFirstLooter, pcsDropInfo->m_pcsDropCharacter, pcsItem) == TRUE)		//	2005.04.22. By SungHoon
