@@ -2,9 +2,8 @@
 /alef/Lib/Debug
 /alef/Lib/Release
 /alef/Bin/
-/alef/Projects/*/Debug/
-/alef/Projects/*/Release/
-/alef/Tools/*/Debug/
-/alef/Tools/*/Release/
+/alef/*/*/Debug/
+/alef/*/*/Debug(Profile)/
+/alef/*/*/Release/
 /alef/Release/
 /alef/Debug/
