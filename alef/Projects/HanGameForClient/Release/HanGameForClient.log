@@ -1,6 +1,0 @@
-﻿  헤더 파일들을 복사합니다...
-  ..\..\Client\HanGameForClient\AuHanAuth.h
-  ..\..\Client\HanGameForClient\HanAuthForClientKor.h
-          2 file(s) copied.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetPath(F:\Archlord\ALReborn\alef\Release\HanGameForClient.lib) does not match the Library's OutputFile property value (F:\Archlord\ALReborn\alef\lib\Release\HanGameForClient.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
-  HanGameForClient.vcxproj -> F:\Archlord\ALReborn\alef\Release\HanGameForClient.lib

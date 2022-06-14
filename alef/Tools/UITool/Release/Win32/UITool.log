@@ -1,2 +1,0 @@
-﻿  StdAfx.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxv_w32.h(44,1): fatal error C1189: #error:  MFC does not support _WIN32_WINNT less than _WIN32_WINNT_WINXP.  Please change the definition of _WIN32_WINNT in your project properties or precompiled header.
