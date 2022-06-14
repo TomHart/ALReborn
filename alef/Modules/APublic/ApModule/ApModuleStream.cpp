@@ -107,42 +107,16 @@ BOOL ApModuleStream::EnumReadCallback(INT16 nDataIndex, PVOID pData, ApModule *p
 	{
 		szValueName = m_csIniFile.GetKeyName(m_lSectionID, nIndex);
 
-		//if (!strncmp(szValueName, m_szModuleName, strlen(m_szModuleName)))
 		if ( !strncmp(szValueName, m_szModuleName, nModuleNameLen) )
 		{
 			szValue = m_csIniFile.GetValue(m_lSectionID, nIndex);
-				
-//			for (nIndex2 = 0; nIndex2 < pcsModule->m_nStream[nDataIndex]; ++nIndex2)
-//			{
-//				if (!strcmp(szValue, pcsModule->m_pvStreamCallbackClass[nDataIndex][nIndex2]->GetModuleName()))
-//				{
-//					m_lValueID = nIndex;
-//
-//					if (pcsModule->m_pfStreamReader[nDataIndex][nIndex2] && 
-//						!pcsModule->m_pfStreamReader[nDataIndex][nIndex2](pData, pcsModule->m_pvStreamCallbackClass[nDataIndex][nIndex2], this))
-//						return FALSE;
-//
-//					//nIndex = m_lValueID;		// 주석 by gemani(030512)
-//
-//					break;
-//				}
-//			}
+
 
 			StreamData*		cur_data = pcsModule->m_listStream[nDataIndex];
 			while(cur_data)
 			{
 				if (!strcmp(szValue, cur_data->pModule->GetModuleName()))
 				{
-					//@{ burumal 2006/02/01	현재 메모리 상태정보를 굳이 체크할 필요가 없다고 판단, 주석 처리해둠.
-					/*
-					MEMORYSTATUS	stMemory;
-					SIZE_T			lAlloc;
-
-					GlobalMemoryStatus(&stMemory);
-					lAlloc = stMemory.dwAvailVirtual;
-					*/
-					//@}
-
 					m_lValueID = nIndex;
 
 					if (cur_data->pReadFunc && 
@@ -156,14 +130,6 @@ BOOL ApModuleStream::EnumReadCallback(INT16 nDataIndex, PVOID pData, ApModule *p
 						return FALSE;
 					}
 
-					//@{ burumal 2006/02/01	현재 메모리 상태정보를 굳이 체크할 필요가 없다고 판단, 주석 처리해둠.
-					/*
-					GlobalMemoryStatus(&stMemory);
-					if (lAlloc - stMemory.dwAvailVirtual > 10000)
-						TRACE("ApModuleStream::EnumReadCallback() - %d Byte Allocated (%s - %s) !!!!\n", lAlloc - stMemory.dwAvailVirtual, cur_data->pModule->GetModuleName(), m_csIniFile.GetSectionName(m_lSectionID));
-					*/
-					//@}
-
 					break;
 				}
 
@@ -171,9 +137,7 @@ BOOL ApModuleStream::EnumReadCallback(INT16 nDataIndex, PVOID pData, ApModule *p
 			}
 
 		}
-		//else if (!strncmp(szValueName, m_szEnumEnd, strlen(m_szEnumEnd)))
-		else
-		if ( !strncmp(szValueName, m_szEnumEnd, nEnumEndLen) )
+		else if ( !strncmp(szValueName, m_szEnumEnd, nEnumEndLen) )
 		{
 			m_lValueID = nIndex;
 			return TRUE;

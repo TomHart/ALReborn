@@ -896,8 +896,10 @@ BOOL			ApmEventManager::StreamRead(ApBase *pcsBase, ApdEventAttachData *pcsEvent
 		pcsStream->GetValue((INT32 *) &eFunction);
 
 		pcsEvents->m_astEvent[pcsEvents->m_unFunction].m_eFunction = eFunction;
-		if (!APDEVENT_FUNCTION_VALID(eFunction))
+		if (!APDEVENT_FUNCTION_VALID(eFunction)) {
+			printf("\t\tInvalid Function ID %d\n", eFunction);
 			return FALSE;
+		}
 
 		if (!pcsStream->ReadNextValue())
 			return TRUE;

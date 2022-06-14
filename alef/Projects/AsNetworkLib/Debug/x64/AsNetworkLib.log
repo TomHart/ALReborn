@@ -1,0 +1,44 @@
+﻿  헤더 파일들을 복사합니다...
+  ..\..\Server\AsIOCPServer\ApFilterFunction.h
+  ..\..\Server\AsIOCPServer\AsException.h
+  ..\..\Server\AsIOCPServer\AsIOCPServer.h
+  ..\..\Server\AsIOCPServer\AsListener.h
+  ..\..\Server\AsIOCPServer\AsObject.h
+  ..\..\Server\AsIOCPServer\AsServerSocket.h
+  ..\..\Server\AsIOCPServer\AsServerSocketManager.h
+  ..\..\Server\AsIOCPServer\AsTimer.h
+  ..\..\Server\AsIOCPServer\AsWSABufManager.h
+          9 file(s) copied.
+  ..\..\Modules\APublic\ApIOCPDispatcher\ApIOCP.h
+  ..\..\Modules\APublic\ApIOCPDispatcher\ApIOCPDispatcher.h
+          2 file(s) copied.
+  ..\..\Modules\AUtility\AuService\AuService.h
+          1 file(s) copied.
+  ..\..\Server\AsDP8Client\AsDP8Client.h
+          1 file(s) copied.
+  ..\..\Server\AsCommonLib\AsCMDQueue.h
+  ..\..\Server\AsCommonLib\AsCommonLib.h
+  ..\..\Server\AsCommonLib\AsDebugOutput.h
+  ..\..\Server\AsCommonLib\AspActionValidCheck.h
+          4 file(s) copied.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  AsWSABufManager.cpp
+  AsTimer.cpp
+  AsServerSocketManager.cpp
+  AsServerSocket.cpp
+  AsObject.cpp
+  AsListener.cpp
+  AsIOCPServer.cpp
+  AsException.cpp
+  ApFilterFunction.cpp
+  AsDP8Client.cpp
+  AspActionValidCheck.cpp
+  AsDebugOutput.cpp
+  AsCommonLib.cpp
+  AuService.cpp
+  ApIOCPDispatcher.cpp
+  ApIOCP.cpp
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetPath(F:\Archlord\ALReborn\alef\Projects\AsNetworkLib\Debug\x64\AsNetworkLib.lib) does not match the Library's OutputFile property value (F:\Archlord\ALReborn\alef\lib\Debug\AsNetworkLibD_x64.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1555,5): warning MSB8012: TargetName(AsNetworkLib) does not match the Library's OutputFile property value (AsNetworkLibD_x64). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  AsNetworkLib.vcxproj -> F:\Archlord\ALReborn\alef\Projects\AsNetworkLib\Debug\x64\AsNetworkLib.lib

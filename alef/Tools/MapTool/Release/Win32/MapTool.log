@@ -1,0 +1,803 @@
+﻿  AdjustHeightDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  AlefMapDocument.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  AlefToolBar.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  AmbOcclMap.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  AtomicFilterDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  AxisManager.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  BobbyUtil.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ChildView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ClipPlaneSetDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ConstDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ConstManager.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ConvertTextureDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  DDSConvertDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  DIBUTIL.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DungeonTemplateEditDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  DungeonToolBar.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  DungeonWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  EditConsoleDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  EventNatureChangeFilterDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ExportDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
+  Compiling...
+  FindObjectSettingDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  GrassSetDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  HeightMap.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  KeyReferenceDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  LoginDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  MainFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  MainWindow.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  MapSelectDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  MapSelectStatic.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  MapTool.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  MyEngine.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  NatureEffectDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  NPCNameDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ObjectBrushSettingDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ObjectDialog.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ObjectPropertiesDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  OptionDialog.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_AmbOcclMap.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_BitmapExport.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_Blocking.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Plugin_BossSpawn.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_CameraWalk.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_GeometryEffect.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_Grass.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_LineBlock.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_LoadBlock.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_NatureEffect.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_NoLayer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_NPC.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_PointLight.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_TextureInfo.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Plugin_Water.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PortionStatic.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PositionDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PrelightAdjustDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ProgressDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  RenderWare.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  RgbSelectDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  RgbSelectStatic.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  RoughDisplayDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
+  Compiling...
+  RoughMapGenerateDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SaveDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SectorCreateDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SkyTemplatePreviewDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SkyValueChangeDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SplashDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SubDivisionDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  TileEditCategoryDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  TileNameEditDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UIMiniMapWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UIOutputWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UITileListWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UITileList_EditTileDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UITileList_MapTabWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UITileList_ObjectTabWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UITileList_Others.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UITileList_PluginBase.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UITileList_TileTabWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  UndoManager.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  WaterHeightDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\Include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\Include\AcuTexture.h(9,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...

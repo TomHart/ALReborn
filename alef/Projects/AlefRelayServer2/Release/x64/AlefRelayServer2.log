@@ -1,0 +1,53 @@
+﻿  AlefRelayServer.cpp
+F:\Archlord\ALReborn\alef\include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\AuPackingManager.h(36,2): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-AuPacking_Status_Build>' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpdCharacter.h(459,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+F:\Archlord\ALReborn\alef\include\AgpdPathFind.h(14,2): warning C4091: 'typedef ': ignored on left of 'eAgpdPathFindBlockStatus' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpdPathFind.h(21,2): warning C4091: 'typedef ': ignored on left of 'dAgpdPathFindResult' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(40,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashSpecialFlag' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(57,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashOperation' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(69,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashBuyResult' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(84,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashCallback' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgppTitle.h(40,2): warning C4091: 'typedef ': ignored on left of '_eAgpmTitleUseFailReason' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmOptimizedPacket2.h(19,2): warning C4091: 'typedef ': ignored on left of 'AgpmOptimizedPacket2Operation' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsdCharacter.h(73,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+F:\Archlord\ALReborn\alef\include\AgsdCharacter.h(87,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+F:\Archlord\ALReborn\alef\include\AgsmGlobalChatting.h(12,2): warning C4091: 'typedef ': ignored on left of 'AgsmGlobalChattingOperation' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsmGlobalChatting.h(21,2): warning C4091: 'typedef ': ignored on left of 'AgsmGlobalChatCB' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsmAdmin.h(144,2): warning C4091: 'typedef ': ignored on left of '_eAgsmAdminCharTID' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsmAI2.h(45,2): warning C4091: 'typedef ': ignored on left of 'AgsmAI2CB' when no variable is declared
+  ServerEngine.cpp
+F:\Archlord\ALReborn\alef\include\ApDefine.h(137,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(142,14): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(189,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(209,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(313,22): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+F:\Archlord\ALReborn\alef\include\ApDefine.h(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Archlord\ALReborn\alef\include\AuPackingManager.h(36,2): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-AuPacking_Status_Build>' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpdCharacter.h(459,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+F:\Archlord\ALReborn\alef\include\AgpdPathFind.h(14,2): warning C4091: 'typedef ': ignored on left of 'eAgpdPathFindBlockStatus' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpdPathFind.h(21,2): warning C4091: 'typedef ': ignored on left of 'dAgpdPathFindResult' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(40,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashSpecialFlag' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(57,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashOperation' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(69,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashBuyResult' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmCashMall.h(84,2): warning C4091: 'typedef ': ignored on left of '_AgpmCashCallback' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgppTitle.h(40,2): warning C4091: 'typedef ': ignored on left of '_eAgpmTitleUseFailReason' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgpmOptimizedPacket2.h(19,2): warning C4091: 'typedef ': ignored on left of 'AgpmOptimizedPacket2Operation' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsdCharacter.h(73,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+F:\Archlord\ALReborn\alef\include\AgsdCharacter.h(87,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+F:\Archlord\ALReborn\alef\include\AgsmGlobalChatting.h(12,2): warning C4091: 'typedef ': ignored on left of 'AgsmGlobalChattingOperation' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsmGlobalChatting.h(21,2): warning C4091: 'typedef ': ignored on left of 'AgsmGlobalChatCB' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsmAdmin.h(144,2): warning C4091: 'typedef ': ignored on left of '_eAgsmAdminCharTID' when no variable is declared
+F:\Archlord\ALReborn\alef\include\AgsmAI2.h(45,2): warning C4091: 'typedef ': ignored on left of 'AgsmAI2CB' when no variable is declared
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetPath(F:\Archlord\ALReborn\alef\Projects\AlefRelayServer2\Release\x64\AlefRelayServer2.exe) does not match the Linker's OutputFile property value (F:\Archlord\ALReborn\alef\Bin\AlefRelayServer2.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+F:\Archlord\ALReborn\alef\Modules\AServer\AgsmBillInfo\AgsmBillInfo.cpp(64): warning C4715: 'AgsmBillInfo::CBSendCharacterAllInfo': not all control paths return a value
+  Finished generating code
+  AlefRelayServer2.vcxproj -> F:\Archlord\ALReborn\alef\Projects\AlefRelayServer2\Release\x64\AlefRelayServer2.exe

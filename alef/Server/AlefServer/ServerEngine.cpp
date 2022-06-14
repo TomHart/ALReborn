@@ -1294,14 +1294,14 @@ BOOL ServerEngine::OnRegisterModule()
 	g_pcsAgpmEventSpawn->LoadSpawnInfoFromExcel( "ini\\spawnExcelData.txt" );
 
 	g_pcsAgpmCashMall->SetMaxProduct(1000);
+	printf("Processing - CashMallTab.txt\n");
 	if (!g_pcsAgpmCashMall->StreamReadCashMallTab(szIniDir + "\\CashMallTab.txt", ENC_SVR_DATA))
 	{
 		ASSERT( !".\\Ini\\CashMallTab.txt" );
 		return FALSE;
 	}
-
-	printf("Processing - 79\n");
-
+	
+	printf("Processing - CashMallItemList.txt\n");
 	if (!g_pcsAgpmCashMall->StreamReadCashMallItemList("ini\\CashMallItemList.txt", ENC_SVR_DATA))
 	{
 		ASSERT( !".\\Ini\\CashMallItemList.txt" );

@@ -1,0 +1,361 @@
+﻿  AlefLoginServer.cpp
+  ServerEngine.cpp
+  ServiceEngine.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetPath(F:\Archlord\ALReborn\alef\Projects\AlefLoginServer\Release\x64\AlefLoginServer.exe) does not match the Linker's OutputFile property value (F:\Archlord\ALReborn\alef\Bin\AlefLoginServer.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Searching libraries
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64\libucrt.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64\libucrt.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64\libucrt.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64\libucrt.lib:
+  Finished searching libraries
+  Generating code
+F:\Archlord\ALReborn\alef\Modules\AServer\AgsmBillInfo\AgsmBillInfo.cpp(64): warning C4715: 'AgsmBillInfo::CBSendCharacterAllInfo': not all control paths return a value
+  Finished generating code
+  Searching libraries
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64\libucrt.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64\libucrt.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64\libucrt.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsmLoginDB_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgsModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\DbgHelp_AMD64.Lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\odbccp32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\ApModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AgpModules_x64.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\AsNetworkLib_x64.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libcpmt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\shlwapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\winmm.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\mswsock.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\ws2_32.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\lua5.1.5.Win64.static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\wininet.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\LIBCMT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\OLDNAMES.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\dx9\x64\d3dx9.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\psapi.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\imagehlp.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64\version.lib:
+      Searching F:\Archlord\ALReborn\alef\lib\Release\aplib.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64\libvcruntime.lib:
+  Finished searching libraries
+  AlefLoginServer.vcxproj -> F:\Archlord\ALReborn\alef\Projects\AlefLoginServer\Release\x64\AlefLoginServer.exe

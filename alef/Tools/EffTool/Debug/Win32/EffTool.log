@@ -1,0 +1,87 @@
+﻿  BrowserView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  ChildFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  DlgListEffSet.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  DlgNewEffSet.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  DlgStatic.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  DlgStaticPropGrid.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  DlgTreeEffSet.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  Dlg_EffRenderBase.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  EdtView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  EffTool.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  EffToolDoc.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  EffToolView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  FrmView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  MainFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  ToolOption.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_AColr.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_Anim.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_Board.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_EffBase.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_EffSet.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_Light.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_MFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_Obj.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_PSys.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_PSysSBH.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_Sound.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_Tail.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory
+  XTPGI_UINT.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+F:\Archlord\ALReborn\alef\Tools\EffTool\stdafx.h(15,10): fatal error C1083: Cannot open include file: 'XTToolkitPro.h': No such file or directory

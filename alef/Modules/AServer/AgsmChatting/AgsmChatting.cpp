@@ -603,6 +603,27 @@ BOOL AgsmChatting::ParseCommand(AgpdChatData * pstChatData)
 			);
 			AuLogFile_s("log/TomLog", strCharBuff);
 
+			//PACKET_AGPPTITLE_UI_OPEN pPacket(pcsAgpdCharacter->m_szID);
+			//SendPacketUser(pPacket, m_pagsmCharacter->GetCharDPNID(pcsAgpdCharacter));
+
+
+			//m_pagsmSystemMessage->SendSystemMessageAllUser(AGPMSYSTEMMESSAGE_CODE_GENERAL_STRING, -1, -1, strSystemMessage, NULL);
+			//AgpmSystemMessage* m_pcsAgpmSystemMessage = (AgpmSystemMessage*)GetModule("AgpmSystemMessage");
+			//INT16 nPacketLength = 0;
+			//PVOID pvPacket = m_pcsAgpmSystemMessage->MakeSystemMessagePacket(&nPacketLength,
+			//	AGPMSYSTEMMESSAGE_CODE_GENERAL_STRING, 
+			//	-1, 
+			//	-1, 
+			//	"Some String",
+			//	NULL
+			//);
+
+			//if (!pvPacket || nPacketLength < 1)
+			//	return FALSE;
+
+			//BOOL bResult = bSendPacketUser(pvPacket, m_pagsmCharacter->GetCharDPNID(pcsAgpdCharacter));
+			//m_pcsAgpmSystemMessage->m_csPacket.FreePacket(pvPacket);
+
 			return TRUE;
 		}
 		else

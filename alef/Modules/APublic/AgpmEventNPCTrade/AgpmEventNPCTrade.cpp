@@ -309,6 +309,8 @@ BOOL AgpmEventNPCTrade::LoadNPCTradeRes( char *pstrFileName , BOOL bDecryption )
 		lRow = m_csExcelTxtLib.GetRow();
 		lColumn = m_csExcelTxtLib.GetColumn();
 
+		uint32_t addedItems = 0;
+
 		for( int lTempRow=0; lTempRow<lRow; lTempRow++ )
 		{
 			char			*pstrData;
@@ -375,9 +377,12 @@ BOOL AgpmEventNPCTrade::LoadNPCTradeRes( char *pstrFileName , BOOL bDecryption )
 				else if( !_stricmp( pstrData, "-End" ) )
 				{
 					m_csNPCTradeTemplate.AddObject( (void *)&pcsTemplate, pcsTemplate->m_lNPCTID );
+					addedItems++;
 				}
 			}
 		}
+
+		printf("Added %d items\n", addedItems); 
 
 		bResult = TRUE;
 

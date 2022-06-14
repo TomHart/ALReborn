@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ServiceEngine.cpp
+  ServerEngine.cpp
+  AlefLoginServer.cpp
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetPath(F:\Archlord\ALReborn\alef\Projects\AlefLoginServer\Debug\x64\AlefLoginServer.exe) does not match the Linker's OutputFile property value (F:\Archlord\ALReborn\alef\Bin\AlefLoginServerD.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1373,5): warning MSB8012: TargetName(AlefLoginServer) does not match the Linker's OutputFile property value (AlefLoginServerD). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1104: cannot open file 'lua5.1.5.Win64.static.lib'

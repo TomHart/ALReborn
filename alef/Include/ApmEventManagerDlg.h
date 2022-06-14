@@ -8,16 +8,6 @@
 #include "ApModule.h"
 #include "ApmEventManager.h"
 
-#ifndef	_WINDLL
-#if _MSC_VER < 1300
-#ifdef	_DEBUG
-#pragma comment ( lib , "ApmEventManagerDlgD" )
-#else
-#pragma comment ( lib , "ApmEventManagerDlg" )
-#endif // 	_DEBUG
-#endif
-#endif //  _WINDLL
-
 class AFX_EXT_CLASS ApmEventDialog : public ApModule
 {
 public:
@@ -27,7 +17,7 @@ public:
 	virtual BOOL	Open(ApdEvent *pstEvent)	{ return TRUE; };
 };
 
-class AFX_EXT_CLASS ApmEventManagerDlg : public ApModule  
+class  AFX_EXT_CLASS ApmEventManagerDlg : public ApModule  
 {
 private:
 	ApmEventManager *		m_pcsApmEventManager;
