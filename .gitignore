@@ -7,3 +7,4 @@
 /alef/*/*/Release/
 /alef/Release/
 /alef/Debug/
+*.vcxproj.user
